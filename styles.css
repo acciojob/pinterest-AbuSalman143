@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 
-.parent{
+.container{
 	display:flex;
 	justify-content:space-around;
 	
