@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 
-.container{
+.parent{
 	display:flex;
 	justify-content:space-around;
 	
@@ -17,10 +17,13 @@
 	aligne-iten:center;
 	width:30%;
 }
+a{
+	text-decoration:none;
+	color:white;
+}
 .btn{
 	background-color:red;
-	color:white;
-	width:100px;
-	height:30px;
-	border:none;
+	width:300px;
+	height:100px;
+	padding:5px;
 }
